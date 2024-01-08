@@ -1,0 +1,38 @@
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\bin\Debug\DAO.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\bin\Debug\DAO.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\bin\Debug\DTO.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\bin\Debug\DTO.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\obj\Debug\DAO.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\obj\Debug\DAO.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\bin\Debug\LiveCharts.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\bin\Debug\LiveCharts.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\bin\Debug\LiveCharts.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DAO\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\bin\Debug\DAO.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\bin\Debug\DAO.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\bin\Debug\DTO.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\bin\Debug\LiveCharts.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\bin\Debug\DTO.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\bin\Debug\LiveCharts.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\bin\Debug\LiveCharts.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\obj\Debug\DAO.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DAO\obj\Debug\DAO.pdb

@@ -1,0 +1,93 @@
+D:\.NET\PBL3\GUI\bin\Debug\GUI.exe.config
+D:\.NET\PBL3\GUI\bin\Debug\GUI.exe
+D:\.NET\PBL3\GUI\bin\Debug\GUI.pdb
+D:\.NET\PBL3\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\.NET\PBL3\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\.NET\PBL3\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\.NET\PBL3\GUI\obj\Debug\GUI.FormLogin.resources
+D:\.NET\PBL3\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\.NET\PBL3\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\.NET\PBL3\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\.NET\PBL3\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\.NET\PBL3\GUI\obj\Debug\GUI.exe
+D:\.NET\PBL3\GUI\obj\Debug\GUI.pdb
+D:\.NET\PBL3\GUI\obj\Debug\GUI.FormQuanLy.resources
+D:\.NET\PBL3\GUI\obj\Debug\GUI.UCQuanLyNhanVien.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.FormLogin.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.FormNhanVien.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.FormQuanLy.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.UCQuanLyKhoHang.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.UCQuanLyNhanVien.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.UCQuanLySanPham.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.exe
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\GUI.exe.config
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\GUI.exe
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\GUI.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.UCQuanLyDoanhThu.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.UCQuanLyHoaDon.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\BUS.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\DTO.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\DAO.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\BUS.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\DTO.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\DAO.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.UCLapHoaDon.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.UCLenLichDatHang.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\LiveCharts.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\LiveCharts.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\LiveCharts.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.FormTaoTaiKhoan.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\GUI.exe.config
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\GUI.exe
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\GUI.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\BUS.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\DTO.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\LiveCharts.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\DAO.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\BUS.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\DTO.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\LiveCharts.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\LiveCharts.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\bin\Debug\DAO.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.FormLogin.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.FormNhanVien.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.FormQuanLy.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.FormTaoTaiKhoan.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.UCLapHoaDon.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.UCLenLichDatHang.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.UCQuanLyDoanhThu.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.UCQuanLyHoaDon.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.UCQuanLyKhoHang.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.UCQuanLyNhanVien.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.UCQuanLySanPham.resources
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.exe
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\GUI\obj\Debug\GUI.pdb

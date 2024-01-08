@@ -1,0 +1,34 @@
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DTO\bin\Debug\DTO.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DTO\bin\Debug\DTO.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DTO\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DTO\obj\Debug\DTO.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DTO\obj\Debug\DTO.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DTO\bin\Debug\LiveCharts.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DTO\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DTO\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DTO\bin\Debug\LiveCharts.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DTO\bin\Debug\LiveCharts.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DTO\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DTO\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DTO\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3\DTO\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DTO\bin\Debug\DTO.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DTO\bin\Debug\DTO.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DTO\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DTO\bin\Debug\LiveCharts.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DTO\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DTO\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DTO\bin\Debug\LiveCharts.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DTO\bin\Debug\LiveCharts.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DTO\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DTO\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DTO\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DTO\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DTO\obj\Debug\DTO.dll
+C:\Users\tmqua\OneDrive\Desktop\PBL3 - Copy\DTO\obj\Debug\DTO.pdb
